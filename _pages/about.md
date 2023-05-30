@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🔭My research interests focus on early childhood education, 
+🔭I'm seeking PhD opportunities in field of learning sciences, education technologies and the intersection of cutting-edge technologies and child development.
+
+
 
