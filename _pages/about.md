@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🔭I'm seeking PhD opportunities in field of learning sciences, education technologies and the intersection of cutting-edge technologies and child development.
+# I am currently seeking Ph.D. opportunities in the field of Learning Sciences, Education Technologies, and the intersection of cutting-edge technologies with child development.
 
 
 
