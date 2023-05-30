@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://link.springer.com/article/10.1007/s11423-022-10154-4)
 
-Recommended citation: Xue, X., Xie, S., Mishra, S., Wright, A. M., Biswas, G., & Levin, D. T. (2022). A case study of prevalence and causes of eye tracking data loss in a middle school classroom. Educational technology research and development, 70(6), 2017-2032.
+Recommended citation: “Xue, X., Xie, S., Mishra, S., Wright, A. M., Biswas, G., & Levin, D. T. (2022). A case study of prevalence and causes of eye tracking data loss in a middle school classroom. Educational technology research and development, 70(6), 2017-2032.”
