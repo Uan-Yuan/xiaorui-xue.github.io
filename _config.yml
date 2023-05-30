@@ -84,8 +84,8 @@ author:
   avatar           : "头像.png"
   bio              : "M.Ed, Vanderbilt University"
   location         : 
-  - employer         : "Parent Lab Inc."
-     url: "https://www.parentlab.com/"              
+  employer         : "https://www.parentlab.com/"
+            
   pubmed           : 
   googlescholar    : 
   email            : "7xueyuanzi7@gmail.com"
