@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋Hi there, I'm Xiaorui!"
-excerpt: "About me"
+excerpt: "👩🏻‍💻I'm currentlly working as a Researcher at Parent Lab Inc. Prior to joining Parent Lab Inc., I completed my master’s at Peabody College, Vanderbilt University. "
 author_profile: true
 redirect_from: 
   - /about/
