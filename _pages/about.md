@@ -20,7 +20,7 @@ redirect_from:
 
 ## 💻Linking Eye Movements with Visual Attention to Enhance Cyberlearning（NSF Awarded: 1623625）
 
-I collaborated with Dr. Daniel Levin at the Levin Lab, where I designed coding schemes to investigate the relationship between students' eye movements and learning in authentic classroom environments.
+I collaborated with Dr. Daniel Levin at the Levin Lab, where we designed coding schemes to investigate the relationship between students' eye movements and learning in authentic classroom environments.
 
 Under the mentorship of Dr. Daniel Levin and Dr. Gautam Biswas, we authored a [respective paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) published in Educational Technology Research and Development (ETR&D).
 
