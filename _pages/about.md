@@ -14,7 +14,7 @@ redirect_from:
 
 📖My research interests revolve around leveraging educational technology to enhance child learning and promote educational equity.
 
-📒In addition to my focus on educational technology, I have a broad interest in early childhood education, the learning sciences, and interventions that involve policies, families, schools, and communities.
+📒In addition to my focus on educational technology, I have broad interests in early childhood education, the learning sciences, and interventions that involve policies, families, schools, and communities.
 
 # Selected Experiences
 
