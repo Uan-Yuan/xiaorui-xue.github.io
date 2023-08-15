@@ -32,6 +32,8 @@ Later, at Stanford Research Institute International, I assessed children individ
 
 These two experiences illuminated the substantial performance disparity between students from high-income and low-income regions. This impelled me to further explore how settings influence students, encompassing both their academic achievements and the cultivation of social-emotional learning.
 
+I wrote a [policy brief](URL: /files/Policy brief.pdf)about universal pre-k reforms in the United States.
+
 ## 🏙️Education Technology Company 
 
 I led a research team focusing on theories of child development in one of the leading ed-tech companies, designing curriculums for parents and educators on parenting and development psychology.
