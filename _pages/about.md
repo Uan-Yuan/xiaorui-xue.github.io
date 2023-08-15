@@ -36,7 +36,7 @@ I wrote a [policy brief](URL: /files/Policy brief.pdf)about universal pre-k refo
 
 ## 🏙️Education Technology Company 
 
-I led a research team focusing on theories of child development in one of the leading ed-tech companies, designing curriculums for parents and educators on parenting and development psychology.
+I led a research team within a prominent ed-tech company, specializing in child development theories. Our work involved crafting curricula tailored for parents and educators, centered around parenting techniques and developmental psychology.
 
 We launched a parenting education app, aimed to provide bite-sized, personalized parenting practices for caregivers on a daily basis.
 
