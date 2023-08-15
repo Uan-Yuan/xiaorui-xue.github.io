@@ -32,7 +32,7 @@ Later, at Stanford Research Institute International, I assessed children individ
 
 These two experiences illuminated the substantial performance disparity between students from high-income and low-income regions. This impelled me to further explore how settings influence students, encompassing both their academic achievements and the cultivation of social-emotional learning.
 
-I wrote a [policy brief](https://drive.google.com/drive/u/0/search?q=policy%20brief)about universal pre-k reforms in the United States.
+I wrote a [policy brief](/files/Policy brief.pdf)about universal pre-k reforms in the United States.
 
 ## 🏙️Education Technology Company 
 
