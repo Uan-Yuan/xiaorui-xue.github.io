@@ -10,13 +10,15 @@ redirect_from:
 
 ✨I am currently seeking Ph.D. opportunities in Learning Sciences, Education Technologies, and the intersection of cutting-edge technologies with child development.
 
+👩🏻‍💻I worked as Senior Researcher at [Parent Lab Inc.](https://www.parentlab.com/)
+
 🎓I graduated from Vanderbilt University.
 
 📖My research interests revolve around leveraging educational technology to enhance child learning and promote educational equity.
 
 📒In addition to my focus on educational technology, I have broad interests in early childhood education, the learning sciences, and interventions that involve policies, families, schools, and communities.
 
-# Selected Experiences
+# Selected Research Experiences
 
 ## 💻Linking Eye Movements with Visual Attention to Enhance Cyberlearning（NSF Awarded: 1623625）
 
