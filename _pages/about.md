@@ -26,9 +26,9 @@ Under the mentorship of Dr. Daniel Levin and Dr. Gautam Biswas, we authored a [r
 
 ## 🧒Tennessee Volunteer Pre-K Program 
 
-As a research assistant at Peabody Research Office, I extensively visited public pre-ks in Tennessee, observing children's interactions and daily routines. This insight deepened my understanding of curriculum design, staffing, and challenges faced by these institutions.
+As a research assistant at Peabody Research Office, I extensively visited public pre-Ks in Tennessee, observing children's interactions and daily routines. This insight deepened my understanding of curriculum design, staffing, and challenges faced by these institutions.
 
-Later, at Stanford Research Institute International, I assessed children individually in public pre-ks within Metro Nashville public schools, focusing on their social, emotional growth and language skills.
+Later, at Stanford Research Institute International, I assessed children individually in public pre-Ks within Metro Nashville public schools, focusing on their social-emotional growth, academic achievements, and language skills.
 
 These two experiences illuminated the substantial performance disparity between students from high-income and low-income regions. This impelled me to further explore how settings influence students, encompassing both their academic achievements and the cultivation of social-emotional learning.
 
