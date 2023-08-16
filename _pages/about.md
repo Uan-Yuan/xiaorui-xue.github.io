@@ -10,7 +10,7 @@ redirect_from:
 
 ✨I am currently seeking Ph.D. opportunities in Learning Sciences, Education Technologies, and the intersection of cutting-edge technologies with child development.
 
-👩🏻‍💻I worked as Senior Researcher at [Parent Lab Inc.](https://www.parentlab.com/)
+👩🏻‍💻I worked as a Senior Researcher at [Parent Lab Inc.](https://www.parentlab.com/)
 
 🎓I graduated from Vanderbilt University.
 
