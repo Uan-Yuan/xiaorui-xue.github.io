@@ -28,11 +28,11 @@ Under the mentorship of Dr. Daniel Levin and Dr. Gautam Biswas, we authored a [r
 
 ## 🧒Tennessee Volunteer Pre-K Program 
 
-As a research assistant at Peabody Research Office, I extensively visited public pre-Ks in Tennessee, observing children's interactions and daily routines. This insight deepened my understanding of curriculum design, staffing, and challenges faced by these institutions.
+As a research assistant at Peabody Research Office, I extensively visited public pre-Ks in Tennessee, observing children's interactions and daily routines. This insight deepened my understanding of curriculum design, staffing, and the challenges these institutions face.
 
 Later, at Stanford Research Institute International, I assessed children individually in public pre-Ks within Metro Nashville public schools, focusing on their social-emotional growth, academic achievements, and language skills.
 
-These two experiences illuminated the substantial performance disparity between students from high-income and low-income regions. This impelled me to further explore how settings influence students, encompassing both their academic achievements and the cultivation of social-emotional learning.
+These two experiences illuminated the substantial performance disparity between students from high-income and low-income regions. This urged me to explore further how settings influence students, encompassing both their academic achievements and the cultivation of social-emotional learning.
 
 I wrote a [policy brief](https://docs.google.com/document/d/1kQ7RPy9uthdIGAMH6nhLQLUh4KZXnlrIH0HPyjza99c/edit?usp=sharing) about universal pre-k reforms in the United States.
 
@@ -40,7 +40,7 @@ I wrote a [policy brief](https://docs.google.com/document/d/1kQ7RPy9uthdIGAMH6nh
 
 I led a research team within a prominent ed-tech company, specializing in child development theories. Our work involved crafting curricula tailored for parents and educators, centered around parenting techniques and developmental psychology.
 
-We launched a parenting education app, aimed to provide bite-sized, personalized parenting practices for caregivers on a daily basis.
+We launched a [parenting education app](https://apps.apple.com/us/app/parent-lab-daily-parenting-app/id1204077580), aimed to provide bite-sized, personalized parenting practices for caregivers on a daily basis.
 
 
 
