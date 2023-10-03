@@ -12,11 +12,11 @@ redirect_from:
 
 👩🏻‍💻I currently hold the role of Senior Researcher at [Parent Lab Inc.](https://www.parentlab.com/)
 
-🎓I graduated from Vanderbilt University.
+🎓As a graduate of Vanderbilt University with a master's degree in international education policy and management(IEPM), I am equipped with the knowledge and data analysis skills needed to make a positive impact in the field of education.
 
 📖My research interests revolve around leveraging educational technology to enhance child learning and promote educational equity.
 
-📒In addition to my focus on educational technology, I have broad interests in early childhood education, the learning sciences, and interventions that involve policies, families, schools, and communities.
+📒In addition to my focus on learning sciences, I have broad interests in human-computer interaction, early childhood education, STEM education, spatial ability, and interventions that involve policies, families, schools, and communities.
 
 # Selected Research Experiences
 
@@ -28,7 +28,7 @@ Under the mentorship of Dr. Daniel Levin and Dr. Gautam Biswas, we authored a [r
 
 ## 🧒Tennessee Volunteer Pre-K Program 
 
-As a research assistant at Peabody Research Office, I extensively visited public pre-Ks in Tennessee, observing children's interactions and daily routines. This insight deepened my understanding of curriculum design, staffing, and the challenges these institutions face.
+As a research assistant at the Peabody Research Office, I extensively visited public pre-Ks in Tennessee, observing children's interactions and daily routines. This insight deepened my understanding of curriculum design, staffing, and the challenges these institutions face.
 
 Later, at Stanford Research Institute International, I assessed children individually in public pre-Ks within Metro Nashville public schools, focusing on their social-emotional growth, academic achievements, and language skills.
 
