@@ -26,7 +26,7 @@ I collaborated with Dr. Daniel Levin at the Levin Lab, where we designed coding 
 
 Under the mentorship of Dr. Daniel Levin and Dr. Gautam Biswas, we authored a [respective paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) published in Educational Technology Research and Development (ETR&D).
 
-## 🧒Tennessee Volunteer Pre-K Program 
+## 🧒SRI&PRI: Tennessee Volunteer Pre-K Program 
 
 As a research assistant at the Peabody Research Office, I extensively visited public pre-Ks in Tennessee, observing children's interactions and daily routines. This insight deepened my understanding of curriculum design, staffing, and the challenges these institutions face.
 
