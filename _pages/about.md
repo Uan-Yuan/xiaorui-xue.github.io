@@ -14,9 +14,9 @@ redirect_from:
 
 🎓As a graduate of Vanderbilt University with a master's degree in international education policy and management(IEPM), I am equipped with the knowledge and data analysis skills needed to make a positive impact in the field of education.
 
-📖My research interests revolve around leveraging educational technology to enhance child learning and promote educational equity.
+📖My research interests center on harnessing theories of learning sciences and education technology to enrich the learning experience for children, with a primary emphasis on early childhood education, and to advance educational equity.
 
-📒In addition to my focus on learning sciences, I have broad interests in human-computer interaction, early childhood education, STEM education, spatial ability, and interventions that involve policies, families, schools, and communities.
+📒In addition to my focus on learning sciences, EdTech, and early childhood education, I have broad interests in human-computer interaction, STEM education, and interventions that involve policies, families, schools, and communities.
 
 # Selected Research Experiences
 
@@ -38,7 +38,7 @@ I wrote a [policy brief](https://docs.google.com/document/d/1kQ7RPy9uthdIGAMH6nh
 
 ## 🏙️Education Technology Company 
 
-I led a research team within a prominent ed-tech company, specializing in child development theories. Our work involved crafting curricula tailored for parents and educators, centered around parenting techniques and developmental psychology.
+I led a research team within a prominent ed-tech company specializing in child development theories. Our work involved crafting curricula tailored for parents and educators centered around parenting techniques and developmental psychology.
 
 We launched a [parenting education app](https://apps.apple.com/us/app/parent-lab-daily-parenting-app/id1204077580), aimed to provide bite-sized, personalized parenting practices for caregivers on a daily basis.
 
