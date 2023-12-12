@@ -16,7 +16,7 @@ redirect_from:
 
 📖My research interests center on harnessing theories of learning sciences and education technology to enrich the learning experience for children, with a primary emphasis on early childhood education, and to advance educational equity.
 
-📒In addition to my focus on learning sciences, EdTech, and early childhood education, I have broad interests in human-computer interaction, STEM education, and interventions that involve policies, families, schools, and communities.
+📒In addition to my focus on learning sciences, EdTech, and early childhood education, I have broad interests in cognitive psychology, human-computer interaction, STEM education, and interventions that involve policies, families, schools, and communities.
 
 # Selected Research Experiences
 
