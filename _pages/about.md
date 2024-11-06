@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-✨I am currently seeking Ph.D. opportunities in Learning Sciences, Education Technologies, and the intersection of cutting-edge technologies with child development.
+✨I am a Ph.D. student specializing in Educational Neuroscience and Cognitive Psychology at the Boston College, where I am advised by Dr. Ido Davidesco. Before joining BC, I obtained my master’s degree in Educational Policy from Vanderbilt University.
 
-👩🏻‍💻I currently hold the role of Senior Researcher at [Parent Lab Inc.](https://www.parentlab.com/)
+👩🏻‍💻Prior to BC, I held the role of Senior Researcher at [Parent Lab Inc.](https://www.parentlab.com/)
 
-🎓As a graduate of Vanderbilt University with a master's degree in international education policy and management(IEPM), I am equipped with the knowledge and data analysis skills needed to make a positive impact in the field of education.
+📖My research interests center on understanding cognitive processes in learning contexts through the use of eye-tracking and EEG. Specifically, I aim to combine these neurophysiological tools with artificial intelligence to investigate how engagement fluctuates. Ultimately, my goal is to design more personalized and adaptive learning experiences for learners from diverse backgrounds.
 
-📖My research interests center on harnessing theories of learning sciences and education technology to enrich the learning experience for children, with a primary emphasis on early childhood education, and to advance educational equity.
-
-📒In addition to my focus on learning sciences, EdTech, and early childhood education, I have broad interests in cognitive psychology, human-computer interaction, STEM education, and interventions that involve policies, families, schools, and communities.
+📒I am currently working on an NSF-funded project. I am involved in utilizing neurophysiological measures to enhance engagement and learning within Intelligent Tutoring Systems. I am specifically responsible for designing and analyzing the eye-tracking component, aiming to capture real-time engagement fluctuations to inform and improve personalized learning experiences.
 
 # Selected Research Experiences
 
