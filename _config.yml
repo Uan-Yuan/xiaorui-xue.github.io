@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaorui Xue"
 title_separator          : "-"
 name                     : &name "Xiaorui Xue"
-description              : &description "M.Ed, Vanderbilt University"
+description              : &description "Ph.D. Student"
 url                      : https://uan-yuan.github.io/xiaorui-xue.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Xiaorui Xue"
   avatar           : "头像.png"
-  bio              : "M.Ed, Vanderbilt University"
+  bio              : "Ph.D. Student"
   location         : 
-  employer         : "Parent Lab Inc."
+  employer         : "Boston College"
             
   pubmed           : 
   googlescholar    : 
-  email            : "xiaorui.xue77@gmail.com"
+  email            : "xuexd@bc.edu"
   researchgate     : "https://www.researchgate.net/profile/Xiaorui-Xue"
   uri              :
   bitbucket        :
