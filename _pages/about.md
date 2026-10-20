@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /publications/
 ---
 
 {% include base_path %}
@@ -49,11 +50,15 @@ From 2019 to 2022, I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/p
 
 ### Early childhood research: Peabody Research Office & SRI International
 
-At the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I collected classroom observation data in public pre-K classrooms across Tennessee. From 2019 to 2020, at [SRI International](https://www.sri.com/), I assessed children's social-emotional, academic, and language development in Metro Nashville public pre-Ks. Both experiences showed me how much the learning environment matters for children's development.
+At the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I collected classroom observation data in public pre-K classrooms across Tennessee. From 2019 to 2020, at [SRI International](https://www.sri.com/), I assessed children's social-emotional, academic, and language development in Metro Nashville public pre-Ks.
 
 ### Education technology: Parent Lab
 
 At [Parent Lab](https://myparentlab.com/), I led a research team grounded in child development theory. We built curricula and assessments for parents and educators, and produced bite-sized, personalized parenting content.
+
+<h2 id="publications">Publications &amp; Presentations</h2>
+
+{% include publications-list.html %}
 
 ## More about myself
 
