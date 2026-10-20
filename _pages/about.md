@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Lab. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with Dr. Daniel Levin on eye tracking in real classrooms. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
+I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Lab. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) on an NSF-funded study, *Linking Eye Movements with Visual Attention to Enhance Cyberlearning*, which used eye tracking to study how students learn with intelligent tutoring systems in real classrooms. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
 
 <h2 id="research">My research interests</h2>
 
@@ -54,7 +54,7 @@ In a parallel line of work, I bring the same students into the lab for controlle
 
 ### 💻 Linking Eye Movements with Visual Attention to Enhance Cyberlearning
 
-From 2019 to 2022, I worked with Dr. Daniel Levin and Dr. Gautam Biswas at the Levin Lab at Vanderbilt (NSF Award 1623625). We designed coding schemes that link students' eye movements to learning in real classrooms. This work led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* (2022). The paper examines the prevalence and causes of eye-tracking data loss in a middle school classroom.
+From 2019 to 2022, I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) and Dr. Gautam Biswas at the Levin Lab at Vanderbilt (NSF Award 1623625). Middle school students learned with an intelligent tutoring system in their real classrooms while we tracked their eyes. We designed coding schemes that link students' eye movements to their learning. This work led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* (2022). The paper examines the prevalence and causes of eye-tracking data loss in a middle school classroom.
 
 ### 🧒 Early childhood research: Peabody Research Office & SRI International
 
@@ -72,4 +72,4 @@ At [Parent Lab](https://myparentlab.com/), I led a research team grounded in chi
 
 In my free time I like to play tennis 🎾, cook 🍳, play video games 🎮, and draw and paint 🎨. I also collect pretty stationery ✏️, and I always have one more notebook than I need.
 
-If you would like to chat about attention, eye tracking, classrooms, or any of the above, feel free to reach out!
+If you would like to chat about attention, visual perception, mind wandering, learning, or any of the above, feel free to reach out!
