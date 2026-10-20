@@ -15,7 +15,7 @@ author_profile: true
   <li class="pub">
     <span class="pub__title"><a href="https://doi.org/10.1007/s11423-022-10154-4">A case study of prevalence and causes of eye tracking data loss in a middle school classroom</a></span>
     <span class="pub__authors"><strong>Xue, X.</strong>, Xie, S., Mishra, S., Wright, A. M., Biswas, G., &amp; Levin, D. T.</span>
-    <span class="pub__venue"><em>Educational Technology Research and Development</em>, 70(6), 2017–2032.</span>
+    <span class="pub__venue"><em>Educational Technology Research and Development</em>, 70(6), 2017–2032 (2022).</span>
     <span class="pub__links"><a href="https://doi.org/10.1007/s11423-022-10154-4">DOI</a></span>
   </li>
 </ol>
@@ -26,7 +26,7 @@ author_profile: true
   <li class="pub">
     <span class="pub__title"><a href="https://doi.org/10.1007/978-3-031-98462-4_3">Utilizing log-based and neurophysiological measures to understand engagement and learning with intelligent tutoring systems</a></span>
     <span class="pub__authors">Liu, Y., Davidesco, I., McLaren, B. M., Richey, J. E., <strong>Xue, X.</strong>, Teffera, L., Stec, H., Lee, H., Zhang, J., Liu, S., &amp; Zion-Golumbic, E.</span>
-    <span class="pub__venue">In <em>Artificial Intelligence in Education (AIED)</em>, Lecture Notes in Computer Science. Springer, pp. 19–26.</span>
+    <span class="pub__venue">In <em>Artificial Intelligence in Education (AIED)</em>, Lecture Notes in Computer Science. Springer, pp. 19–26 (2025).</span>
     <span class="pub__links"><a href="https://doi.org/10.1007/978-3-031-98462-4_3">DOI</a> · <a href="https://www.cs.cmu.edu/~bmclaren/pubs/LiuEtAl-UtilizingLogBasedAndNeurophysiologicalMeasuresToUnderstandITS-AIED2025.pdf">PDF</a></span>
   </li>
 </ol>

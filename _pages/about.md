@@ -56,13 +56,13 @@ In my current work, students wear lightweight eye-tracking glasses during their 
 
 ### 💻 Linking Eye Movements with Visual Attention to Enhance Cyberlearning
 
-At the Levin Lab at Vanderbilt (NSF Award 1623625), I worked with Dr. Daniel Levin and Dr. Gautam Biswas to design coding schemes that link students' eye movements to learning in authentic classroom environments. This work led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* on the prevalence and causes of eye-tracking data loss in a middle school classroom.
+From 2019 to 2022, I worked with Dr. Daniel Levin and Dr. Gautam Biswas at the Levin Lab at Vanderbilt (NSF Award 1623625) to design coding schemes that link students' eye movements to learning in authentic classroom environments. This work led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* (2022) on the prevalence and causes of eye-tracking data loss in a middle school classroom.
 
 ### 🧒 Early childhood research: Peabody Research Office & SRI International
 
 As a research assistant at the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I visited public pre-K classrooms across Tennessee, observing children's interactions and daily routines, which gave me a close look at curriculum design, staffing, and the challenges these programs face.
 
-Later, at [SRI International](https://www.sri.com/), I individually assessed children in Metro Nashville public pre-Ks, focusing on their social-emotional growth, academic skills, and language development.
+From 2019 to 2020, as a research assistant at [SRI International](https://www.sri.com/), I individually assessed children in Metro Nashville public pre-Ks, focusing on their social-emotional growth, academic skills, and language development.
 
 Both experiences made the gap between students from high- and low-income communities vivid, and pushed me to ask how learning environments shape both academic achievement and social-emotional learning. I also wrote a [policy brief]({{ base_path }}/files/policy-brief.pdf) on universal pre-K reforms in the United States.
 
