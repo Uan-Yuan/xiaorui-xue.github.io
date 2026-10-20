@@ -16,7 +16,7 @@ I am a Ph.D. student at Boston College's Lynch School of Education and Human Dev
 
 Broadly, I am interested in **visual attention** and how it interacts with **ongoing thought**. Together, they shape what people **perceive**, **attend** to, and **learn** from the world around them.
 
-<p class="muted">More specifically, I aim to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>. I use mobile eye tracking 👓 to capture what students see, think, and learn, through first-person video and gaze data.</p>
+<p class="muted">More specifically, I aim to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>. I use mobile eye-tracking glasses 👓 to capture what students see, think, and learn.</p>
 
 <ol class="questions">
   <li>Can our eyes reveal what we are <strong>thinking</strong>, in a <strong class="tag-classroom">real classroom</strong>?</li>
