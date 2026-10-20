@@ -13,7 +13,7 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : "Fraunces", Georgia, Times, serif;
+$serif                      : Georgia, Times, serif;
 $sans-serif                 : "Inter", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
@@ -29,7 +29,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $serif;
+$header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -53,14 +53,14 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fbfaf7;
-$background-color           : #fbfaf7;
+$body-color                 : #eef7f2;
+$background-color           : #eef7f2;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : #2b3140;
+$text-color                 : #202124;
 $border-color               : $lighter-gray;
 
-$primary-color              : #1f2a44;
+$primary-color              : #202124;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -90,13 +90,16 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #2f5fa3;
+$link-color                 : #3a6bbf;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : $link-color;
 $masthead-link-color        : $primary-color;
-$accent-color               : #c96a3a;
-$lab-color                  : #3b6fb6;
-$classroom-color            : #c96a3a;
+$accent-color               : #c0531f;
+$lab-color                  : #3a6bbf;
+$classroom-color            : #c0531f;
+$muted-color                : #5f6368;
+$mint-line                  : #d6e9df;
+$mint-deep                  : #e3f1e9;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 

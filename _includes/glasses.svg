@@ -1,4 +1,4 @@
-<svg class="et-glasses" viewBox="0 0 520 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="etg-title">
+<svg class="et-glasses" viewBox="0 84 520 124" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="etg-title">
   <title id="etg-title">Illustration of wearable eye-tracking glasses with a gaze marker</title>
   <defs>
     <linearGradient id="etg-lens" x1="0" y1="0" x2="1" y2="1">
@@ -6,16 +6,6 @@
       <stop offset="1" stop-color="#d7e2f4"/>
     </linearGradient>
   </defs>
-  <!-- gaze trail: where the wearer has looked -->
-  <g class="etg-trail" fill="none" stroke="#c96a3a" stroke-width="2" stroke-dasharray="3 7" stroke-linecap="round" opacity="0.7">
-    <path d="M118 112 C 140 60, 230 40, 300 58 S 430 110, 468 70"/>
-  </g>
-  <g class="etg-dots" fill="#c96a3a">
-    <circle cx="300" cy="58" r="3.5" opacity="0.45"/>
-    <circle cx="390" cy="86" r="3.5" opacity="0.65"/>
-    <circle cx="468" cy="70" r="6"/>
-    <circle cx="468" cy="70" r="12" fill="none" stroke="#c96a3a" stroke-width="2" opacity="0.5"/>
-  </g>
   <!-- temples -->
   <g stroke="#1f2a44" stroke-width="7" stroke-linecap="round" fill="none">
     <path d="M44 128 C 20 128, 12 132, 8 160"/>

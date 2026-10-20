@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p class="pubs-intro">Peer-reviewed articles, conference proceedings, and recent conference presentations. <sup>*</sup> indicates undergraduate researchers I mentored.</p>
+<p class="pubs-intro">Journal articles, conference proceedings, and recent conference posters. <sup>*</sup> marks undergraduate researchers I mentored.</p>
 
 <h2 class="pubs-heading">Journal articles</h2>
 

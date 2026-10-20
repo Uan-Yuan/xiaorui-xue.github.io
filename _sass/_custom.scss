@@ -1,9 +1,7 @@
 /* ==========================================================================
    CUSTOM — site-specific styling for xiaorui-xue.github.io
-   ========================================================================== */
-
-/*
-   Global polish
+   Clean, slide-like: soft mint background, one sans-serif, emoji icons,
+   generous whitespace, no boxes.
    ========================================================================== */
 
 body {
@@ -12,77 +10,72 @@ body {
 }
 
 h1, h2, h3, h4 {
-  letter-spacing: -0.01em;
   color: $primary-color;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 .page__title {
-  font-size: 2.2em;
-  font-weight: 600;
-  line-height: 1.15;
-  margin-bottom: 0.6em;
+  font-size: 2.1em;
+  line-height: 1.2;
+  margin-bottom: 0.7em;
 }
 
 .page__content {
-  font-size: 1.02em;
-  line-height: 1.7;
+  font-size: 1.04em;
+  line-height: 1.75;
 
   h2 {
-    margin-top: 2.4em;
-    padding-bottom: 0.35em;
-    font-size: 1.45em;
-    font-weight: 600;
-    border-bottom: 2px solid mix($accent-color, $background-color, 35%);
+    margin-top: 2.6em;
+    padding-bottom: 0;
+    border-bottom: 0;
+    font-size: 1.5em;
   }
 
   h3 {
-    margin-top: 1.8em;
-    font-size: 1.12em;
-    font-weight: 600;
+    margin-top: 1.9em;
+    font-size: 1.1em;
   }
 
   a {
+    color: $link-color;
     text-decoration: none;
-    border-bottom: 1.5px solid mix($link-color, $background-color, 45%);
-    transition: border-color 0.15s ease, color 0.15s ease;
 
     &:hover {
-      text-decoration: none;
-      border-bottom-color: $accent-color;
-      color: $accent-color;
+      text-decoration: underline;
+      color: $link-color;
     }
   }
 
-  .lead {
-    font-size: 1.12em;
-    line-height: 1.65;
-    color: mix($primary-color, $text-color, 60%);
+  strong {
+    font-weight: 700;
+    color: $primary-color;
+  }
+
+  .muted {
+    color: $muted-color;
+    font-size: 0.97em;
   }
 }
 
 /* masthead */
 .masthead {
   background: $background-color;
-  border-bottom: 1px solid mix($primary-color, $background-color, 12%);
+  border-bottom: 1px solid $mint-line;
 
   &__menu-item {
-    font-family: $sans-serif;
     font-weight: 500;
-    letter-spacing: 0.01em;
 
     a {
-      color: mix($primary-color, $text-color, 60%);
-      transition: color 0.15s ease;
+      color: $muted-color;
 
       &:hover {
-        color: $accent-color;
+        color: $primary-color;
       }
     }
 
     &--lg {
-      font-family: $serif;
       font-weight: 700;
-      font-size: 1.15em;
 
       a {
         color: $primary-color;
@@ -94,29 +87,23 @@ h1, h2, h3, h4 {
 /* sidebar / author profile */
 .author__avatar img {
   border-radius: 50%;
-  border: 3px solid $background-color;
-  box-shadow: 0 0 0 2px mix($accent-color, $background-color, 55%), 0 8px 22px rgba($primary-color, 0.12);
 }
 
 .author__name {
-  font-family: $serif;
   font-weight: 600;
-  font-size: 1.15em;
   color: $primary-color;
 }
 
 .author__bio {
-  color: mix($primary-color, $text-color, 40%);
+  color: $muted-color;
 }
 
-.author__urls {
-  a {
-    text-decoration: none;
-    color: mix($primary-color, $text-color, 50%);
+.author__urls a {
+  text-decoration: none;
+  color: $muted-color;
 
-    &:hover {
-      color: $accent-color;
-    }
+  &:hover {
+    color: $primary-color;
   }
 }
 
@@ -126,58 +113,102 @@ h1, h2, h3, h4 {
 
 /* footer */
 .page__footer {
-  background: mix($primary-color, $background-color, 6%);
-  color: mix($primary-color, $text-color, 40%);
+  background: $mint-deep;
+  border-top: 1px solid $mint-line;
+  color: $muted-color;
 
   footer {
     font-size: 0.8em;
   }
 
   a {
-    color: mix($primary-color, $text-color, 40%);
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-
-    &:hover {
-      color: $accent-color;
-      border-bottom-color: $accent-color;
-    }
+    color: $muted-color;
   }
 }
 
 /*
-   Research hero (home page)
+   Home page
    ========================================================================== */
 
-.research-hero {
+.tag-lab {
+  color: $lab-color !important;
+}
+
+.tag-classroom {
+  color: $classroom-color !important;
+}
+
+/* three guiding questions: plain numbered list, a little larger */
+.questions {
+  margin: 1.4em 0 0.5em 1.4em;
+  padding: 0;
+
+  li {
+    margin-bottom: 0.55em;
+    font-size: 1.08em;
+  }
+}
+
+/* lab ⇄ classroom diagram */
+.diagram {
   display: flex;
   flex-direction: column;
-  gap: 1.25em;
-  margin: 2.2em 0 1.5em;
-  padding: 1.75em 1.75em 1.5em;
-  background: #ffffff;
-  border: 1px solid mix($primary-color, $background-color, 10%);
-  border-radius: 20px;
-  box-shadow: 0 10px 30px rgba($primary-color, 0.06);
+  align-items: center;
+  gap: 1.5em;
+  margin: 2.4em auto 0.6em;
+  max-width: 760px;
+  text-align: center;
 
   @include breakpoint($medium) {
     flex-direction: row;
-    align-items: center;
-    gap: 2em;
-    padding: 2em 2.25em;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1em;
   }
 
-  &__art {
+  &__node {
+    flex: 1 1 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 280px;
+  }
+
+  &__emoji {
+    font-size: 4.2em;
+    line-height: 1;
+    margin-bottom: 0.2em;
+  }
+
+  &__label {
+    font-size: 1.35em;
+    font-weight: 700;
+    margin-bottom: 0.35em;
+  }
+
+  &__caption {
+    font-size: 0.95em;
+    line-height: 1.5;
+    color: $muted-color;
+  }
+
+  &__link {
     flex: 0 0 auto;
-    width: 100%;
-    max-width: 260px;
-    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4em;
+    align-self: center;
+    color: $primary-color;
 
     @include breakpoint($medium) {
-      width: 36%;
-      max-width: 300px;
-      margin: 0;
+      padding-top: 1.2em;
     }
+  }
+
+  &__glasses {
+    display: block;
+    width: 110px;
 
     svg {
       display: block;
@@ -186,110 +217,16 @@ h1, h2, h3, h4 {
     }
   }
 
-  &__text {
-    flex: 1 1 auto;
-
-    p {
-      margin-bottom: 0.9em;
-    }
-
-    p:last-child {
-      margin-bottom: 0;
-    }
-  }
-
-  &__title {
-    margin: 0 0 0.5em !important;
-    padding: 0 !important;
-    border: 0 !important;
-    font-size: 1.6em !important;
-  }
-
-  &__sub {
-    font-size: 0.95em;
-    color: mix($primary-color, $text-color, 40%);
-  }
-}
-
-.et-glasses {
-  .etg-dots circle:last-child {
-    animation: etg-pulse 2.4s ease-in-out infinite;
-    transform-origin: 468px 70px;
-  }
-}
-
-@keyframes etg-pulse {
-  0%, 100% { opacity: 0.5; transform: scale(1); }
-  50% { opacity: 0.15; transform: scale(1.5); }
-}
-
-/* three guiding questions */
-.questions {
-  list-style: none;
-  margin: 0 0 1.5em;
-  padding: 0;
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 0.85em;
-
-  @include breakpoint($medium-wide) {
-    grid-template-columns: repeat(3, 1fr);
-  }
-}
-
-.question {
-  display: flex;
-  gap: 0.85em;
-  align-items: flex-start;
-  margin: 0;
-  padding: 1.1em 1.2em;
-  background: mix($primary-color, $background-color, 4%);
-  border-left: 3px solid $accent-color;
-  border-radius: 0 14px 14px 0;
-  font-size: 1em;
-  line-height: 1.5;
-
-  &__num {
-    flex: 0 0 auto;
-    font-family: $serif;
-    font-weight: 700;
-    font-size: 1.5em;
+  &__arrow {
+    font-size: 2em;
     line-height: 1;
-    color: $accent-color;
   }
 
-  &__text {
-    color: $text-color;
-  }
-}
-
-.tag-lab {
-  color: $lab-color;
-}
-
-.tag-classroom {
-  color: $classroom-color;
-}
-
-/* methods toolkit chips */
-.toolkit {
-  list-style: none;
-  margin: 1em 0 0.5em;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5em;
-
-  li {
-    margin: 0;
-    padding: 0.32em 0.85em;
-    font-size: 0.82em;
-    font-weight: 500;
-    letter-spacing: 0.01em;
-    color: $primary-color;
-    background: #ffffff;
-    border: 1px solid mix($primary-color, $background-color, 18%);
-    border-radius: 999px;
+  &__note {
+    text-align: center;
+    color: $muted-color;
+    font-size: 0.95em;
+    margin-bottom: 1em;
   }
 }
 
@@ -298,59 +235,45 @@ h1, h2, h3, h4 {
    ========================================================================== */
 
 .pubs-intro {
-  color: mix($primary-color, $text-color, 40%);
+  color: $muted-color;
 }
 
 .pubs-heading {
-  margin-top: 2.2em;
+  margin-top: 2.4em;
 }
 
 .pubs {
   list-style: none;
   margin: 0;
   padding: 0;
-  counter-reset: pub;
 }
 
 .pub {
-  position: relative;
-  margin: 0 0 1.1em;
-  padding: 1.1em 1.3em 1.1em 1.3em;
-  background: #ffffff;
-  border: 1px solid mix($primary-color, $background-color, 10%);
-  border-radius: 14px;
+  margin: 0 0 1.5em;
+  padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.3em;
-  transition: box-shadow 0.15s ease, transform 0.15s ease;
-
-  &:hover {
-    box-shadow: 0 8px 24px rgba($primary-color, 0.08);
-    transform: translateY(-1px);
-  }
+  gap: 0.2em;
 
   &__title {
-    font-family: $serif;
     font-weight: 600;
-    font-size: 1.1em;
-    line-height: 1.35;
-    color: $primary-color;
+    font-size: 1.08em;
+    line-height: 1.4;
 
     a {
-      color: inherit;
-      border-bottom: 0;
+      color: $primary-color;
       text-decoration: none;
 
       &:hover {
-        color: $accent-color;
-        text-decoration: none;
+        color: $link-color;
+        text-decoration: underline;
       }
     }
   }
 
   &__authors {
-    font-size: 0.93em;
-    color: mix($primary-color, $text-color, 30%);
+    font-size: 0.95em;
+    color: $muted-color;
 
     strong {
       color: $primary-color;
@@ -358,72 +281,27 @@ h1, h2, h3, h4 {
   }
 
   &__venue {
-    font-size: 0.9em;
-    color: mix($primary-color, $text-color, 55%);
+    font-size: 0.92em;
+    color: $muted-color;
   }
 
   &__links {
-    margin-top: 0.3em;
-    font-size: 0.8em;
-    font-weight: 600;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
+    font-size: 0.85em;
+    font-weight: 500;
 
     a {
-      color: $accent-color;
-      border-bottom: 0;
+      color: $link-color;
       text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
     }
   }
 }
 
 .pubs-note {
   margin-top: 2em;
-  font-size: 0.9em;
-  color: mix($primary-color, $text-color, 55%);
-}
-
-/*
-   Hobbies (home page)
-   ========================================================================== */
-
-.hobbies {
-  list-style: none;
-  margin: 1.2em 0 1.5em;
-  padding: 0;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 0.75em;
-
-  @include breakpoint($medium) {
-    grid-template-columns: repeat(5, 1fr);
-  }
-
-  li {
-    margin: 0;
-    padding: 1em 0.5em 0.9em;
-    text-align: center;
-    font-size: 0.85em;
-    font-weight: 500;
-    color: $primary-color;
-    background: #ffffff;
-    border: 1px solid mix($primary-color, $background-color, 10%);
-    border-radius: 16px;
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
-
-    &:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 8px 20px rgba($primary-color, 0.08);
-    }
-
-    span {
-      display: block;
-    }
-  }
-
-  &__icon {
-    font-size: 1.9em;
-    line-height: 1;
-    margin-bottom: 0.35em;
-  }
+  font-size: 0.92em;
+  color: $muted-color;
 }
