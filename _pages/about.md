@@ -16,7 +16,7 @@ I am a Ph.D. student at Boston College's Lynch School of Education and Human Dev
 
 Broadly, I am interested in **visual attention** and how it interacts with **ongoing thought**. Together, they shape what people **perceive**, **attend** to, and **learn** from the world around them.
 
-<p class="muted">More specifically, I aim to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>. I use first-person video and gaze data to capture what students see, think, and learn.</p>
+<p class="muted">More specifically, I aim to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>. I use mobile eye tracking 👓 to capture what students see, think, and learn, through first-person video and gaze data.</p>
 
 <ol class="questions">
   <li>Can our eyes reveal what we are <strong>thinking</strong>, in a <strong class="tag-classroom">real classroom</strong>?</li>
@@ -31,8 +31,7 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
     <span class="diagram__caption">Quiet and controlled. One screen, one task, no interruptions.</span>
   </div>
   <div class="diagram__node diagram__node--link">
-    <span class="diagram__emoji" aria-hidden="true"><span class="diagram__emoji--small">👓</span></span>
-    <span class="diagram__label diagram__arrow" aria-hidden="true">⇄</span>
+    <span class="diagram__emoji diagram__arrow" aria-hidden="true">⇄</span>
   </div>
   <div class="diagram__node">
     <span class="diagram__emoji" aria-hidden="true">🏫</span>
@@ -40,7 +39,7 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
     <span class="diagram__caption">Messy and real. Slides, peers, devices, and noise all compete for attention.</span>
   </div>
 </div>
-<p class="diagram__note">Same eyes, same glasses, two very different worlds. What carries over?</p>
+<p class="diagram__note">Two very different worlds. What carries over from one to the other?</p>
 
 ## What I do now
 
