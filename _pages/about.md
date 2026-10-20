@@ -28,7 +28,7 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
   <div class="diagram__node">
     <span class="diagram__emoji" aria-hidden="true">🖥️</span>
     <span class="diagram__label tag-lab">Lab</span>
-    <span class="diagram__caption">A recorded lecture from their own course, on one screen</span>
+    <span class="diagram__caption">Quiet and controlled. One screen, one task, no interruptions.</span>
   </div>
   <div class="diagram__node diagram__node--link">
     <span class="diagram__emoji" aria-hidden="true"><span class="diagram__emoji--small">👓</span></span>
@@ -37,10 +37,10 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
   <div class="diagram__node">
     <span class="diagram__emoji" aria-hidden="true">🏫</span>
     <span class="diagram__label tag-classroom">Classroom</span>
-    <span class="diagram__caption">Their live class, with slides, peers, and personal devices</span>
+    <span class="diagram__caption">Messy and real. Slides, peers, devices, and noise all compete for attention.</span>
   </div>
 </div>
-<p class="diagram__note">The same students, the same glasses, the same questions, in two very different environments.</p>
+<p class="diagram__note">Same eyes, same glasses, two very different worlds. What carries over?</p>
 
 ## What I do now
 
