@@ -28,7 +28,6 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
   <div class="diagram__node">
     <span class="diagram__emoji" aria-hidden="true">🖥️</span>
     <span class="diagram__label tag-lab">Lab</span>
-    <span class="diagram__caption">Quiet and controlled. One screen, one task, no interruptions.</span>
   </div>
   <div class="diagram__node diagram__node--link">
     <span class="diagram__emoji diagram__arrow" aria-hidden="true">⇄</span>
@@ -36,7 +35,6 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
   <div class="diagram__node">
     <span class="diagram__emoji" aria-hidden="true">🏫</span>
     <span class="diagram__label tag-classroom">Classroom</span>
-    <span class="diagram__caption">Messy and real. Slides, peers, devices, and noise all compete for attention.</span>
   </div>
 </div>
 <p class="diagram__note">Two very different worlds. What carries over from one to the other?</p>
