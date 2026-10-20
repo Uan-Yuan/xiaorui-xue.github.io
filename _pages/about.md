@@ -30,9 +30,9 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
     <span class="diagram__label tag-lab">Lab</span>
     <span class="diagram__caption">A recorded lecture from their own course, on one screen</span>
   </div>
-  <div class="diagram__link">
-    <span class="diagram__glasses">{% include glasses.svg %}</span>
-    <span class="diagram__arrow" aria-hidden="true">⇄</span>
+  <div class="diagram__node diagram__node--link">
+    <span class="diagram__emoji" aria-hidden="true"><span class="diagram__emoji--small">👓</span></span>
+    <span class="diagram__label diagram__arrow" aria-hidden="true">⇄</span>
   </div>
   <div class="diagram__node">
     <span class="diagram__emoji" aria-hidden="true">🏫</span>

@@ -162,8 +162,8 @@ h1, h2, h3, h4 {
   @include breakpoint($medium) {
     flex-direction: row;
     align-items: flex-start;
-    justify-content: space-between;
-    gap: 1em;
+    justify-content: center;
+    gap: 2.5em;
   }
 
   &__node {
@@ -175,12 +175,23 @@ h1, h2, h3, h4 {
   }
 
   &__emoji {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1.2em;
     font-size: 4.2em;
     line-height: 1;
     margin-bottom: 0.2em;
+
+    &--small {
+      font-size: 0.8em;
+    }
   }
 
   &__label {
+    display: flex;
+    align-items: center;
+    height: 1.3em;
     font-size: 1.35em;
     font-weight: 700;
     margin-bottom: 0.35em;
@@ -192,34 +203,14 @@ h1, h2, h3, h4 {
     color: $muted-color;
   }
 
-  &__link {
+  &__node--link {
     flex: 0 0 auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.4em;
-    align-self: center;
+    max-width: none;
     color: $primary-color;
-
-    @include breakpoint($medium) {
-      padding-top: 1.2em;
-    }
-  }
-
-  &__glasses {
-    display: block;
-    width: 110px;
-
-    svg {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
   }
 
   &__arrow {
-    font-size: 2em;
-    line-height: 1;
+    font-weight: 400;
   }
 
   &__note {
