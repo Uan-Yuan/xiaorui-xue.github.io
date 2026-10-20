@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p class="pubs-intro"><sup>*</sup> marks undergraduate researchers I mentored.</p>
+<p class="pubs-intro"><sup>*</sup> marks undergraduate students I mentored.</p>
 
 <h2 class="pubs-heading">Publications</h2>
 
