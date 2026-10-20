@@ -19,5 +19,30 @@
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
+    <button type="button" class="a11y-toggle" id="a11y-toggle" aria-pressed="false" title="Switch to colorblind-friendly colors and higher contrast">
+      <span class="a11y-toggle__icon" aria-hidden="true"></span>
+      <span class="a11y-toggle__label">Accessible colors</span>
+    </button>
   </div>
 </div>
+<script>
+(function () {
+  var KEY = 'a11y-mode';
+  var root = document.documentElement;
+  var btn = document.getElementById('a11y-toggle');
+  function apply(on) {
+    if (on) { root.setAttribute('data-a11y', '1'); } else { root.removeAttribute('data-a11y'); }
+    if (btn) { btn.setAttribute('aria-pressed', on ? 'true' : 'false'); }
+  }
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  apply(saved === '1');
+  if (btn) {
+    btn.addEventListener('click', function () {
+      var on = root.getAttribute('data-a11y') !== '1';
+      apply(on);
+      try { localStorage.setItem(KEY, on ? '1' : '0'); } catch (e) {}
+    });
+  }
+})();
+</script>

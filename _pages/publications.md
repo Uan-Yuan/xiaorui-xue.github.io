@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p class="pubs-intro">Journal articles, conference proceedings, and recent conference posters. <sup>*</sup> marks undergraduate researchers I mentored.</p>
+<p class="pubs-intro"><sup>*</sup> marks undergraduate researchers I mentored.</p>
 
 <h2 class="pubs-heading">Journal articles</h2>
 
@@ -46,4 +46,4 @@ author_profile: true
   </li>
 </ol>
 
-<p class="pubs-note">Preprints and preregistrations for ongoing classroom eye-tracking studies are available on request.</p>
+<p class="pubs-note">Preprints and preregistrations for ongoing studies are available on request.</p>

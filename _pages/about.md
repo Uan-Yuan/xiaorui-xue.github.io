@@ -10,15 +10,15 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Research Group. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) on an NSF-funded study, *Linking Eye Movements with Visual Attention to Enhance Cyberlearning*, which used eye tracking to study how students learn with intelligent tutoring systems in <strong class="tag-classroom">real classrooms</strong>. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
+I am a Ph.D. student at Boston College's Lynch School of Education and Human Development, working with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Research Group. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University, where I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) on an NSF-funded study of eye tracking and learning with intelligent tutoring systems in <strong class="tag-classroom">real classrooms</strong>. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
 
-I am experienced with running mobile eye-tracking studies, both in the <strong class="tag-lab">lab</strong> and in <strong class="tag-classroom">real classrooms</strong>, and with using tools such as PsychoPy, Python, and R to build experiments and analyze the data.
+I run mobile eye-tracking studies in the <strong class="tag-lab">lab</strong> and in <strong class="tag-classroom">real classrooms</strong>, and use PsychoPy, Python, and R to build experiments and analyze data.
 
 <h2 id="research">My research interests</h2>
 
-Broadly, I am interested in **visual attention** and how it interacts with **ongoing thought**. Together, they shape what people **perceive**, **attend** to, and **learn** from the world around them.
+I am interested in **visual attention** and how it interacts with **ongoing thought** to shape what people **perceive**, **attend** to, and **learn**.
 
-<p class="muted">More specifically, I aim to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>. I use mobile eye-tracking glasses 👓 to capture what students see, think, and learn.</p>
+<p class="muted">My goal is to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>, using mobile eye-tracking glasses 👓 to capture what students see, think, and learn.</p>
 
 <ol class="questions">
   <li>Can our eyes reveal what we are <strong>thinking</strong>, in a <strong class="tag-classroom">real classroom</strong>?</li>
@@ -43,31 +43,26 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
 
 ## What I do now
 
-In my current work, students wear lightweight eye-tracking glasses in their regular <strong class="tag-classroom">university lectures</strong>. During class, they answer brief thought probes and quiz questions. I align their gaze features with these moment-to-moment reports of mind wandering. The features include where they look, how long they fixate, how often they blink, and how much their heads move. The goal is to test whether eye and head movements can serve as markers of attention and learning <strong class="tag-classroom">outside the lab</strong>.
+Students wear lightweight eye-tracking glasses during their regular <strong class="tag-classroom">university lectures</strong> while answering brief thought probes and quiz questions. I align gaze features, such as where they look, how long they fixate, how often they blink, and how much their heads move, with these moment-to-moment reports of mind wandering. The goal is to test whether eye and head movements can mark attention and learning <strong class="tag-classroom">outside the lab</strong>.
 
-In a parallel line of work, I bring the same students into the <strong class="tag-lab">lab</strong> for controlled attention tasks. I use their <strong class="tag-lab">lab data</strong> to train machine-learning models. Then I test whether these models can predict the same students' attention and learning in their <strong class="tag-classroom">real classrooms</strong>. I am also involved in the eye-tracking component of our NSF-funded project on engagement in intelligent tutoring systems.
-
+In parallel, I bring the same students into the <strong class="tag-lab">lab</strong> for controlled attention tasks, train machine-learning models on their <strong class="tag-lab">lab data</strong>, and test whether these models predict their attention and learning in <strong class="tag-classroom">real classrooms</strong>. I also contribute to the eye-tracking component of our NSF-funded project on engagement in intelligent tutoring systems.
 
 ## Selected research experience
 
-### 💻 Linking Eye Movements with Visual Attention to Enhance Cyberlearning
+### Linking Eye Movements with Visual Attention to Enhance Cyberlearning
 
-From 2019 to 2022, I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) and [Dr. Gautam Biswas](https://engineering.vanderbilt.edu/bio/gautam-biswas/) at the Levin Lab at Vanderbilt (NSF Award 1623625). Middle school students learned with an intelligent tutoring system in their real classrooms while we tracked their eyes. We designed coding schemes that link students' eye movements to their learning. This work led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* (2022). The paper examines the prevalence and causes of eye-tracking data loss in a middle school classroom.
+From 2019 to 2022, I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) and [Dr. Gautam Biswas](https://engineering.vanderbilt.edu/bio/gautam-biswas/) at Vanderbilt (NSF Award 1623625). We tracked middle school students' eyes as they learned with an intelligent tutoring system in their classrooms, and designed coding schemes linking eye movements to learning. This led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* (2022) on the causes of eye-tracking data loss in the classroom.
 
-### 🧒 Early childhood research: Peabody Research Office & SRI International
+### Early childhood research: Peabody Research Office & SRI International
 
-As a research assistant at the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I visited public pre-K classrooms across Tennessee. I observed children's interactions and daily routines. This gave me a close look at curriculum design, staffing, and the challenges these programs face.
+At the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I observed public pre-K classrooms across Tennessee. From 2019 to 2020, at [SRI International](https://www.sri.com/), I assessed children's social-emotional, academic, and language development in Metro Nashville public pre-Ks. Both experiences showed me how much learning environments shape children's development.
 
-From 2019 to 2020, I was a research assistant at [SRI International](https://www.sri.com/). I individually assessed children in Metro Nashville public pre-Ks. The assessments focused on social-emotional growth, academic skills, and language development.
+### Education technology: Parent Lab
 
-Both experiences showed me the gap between students from high- and low-income communities. They pushed me to ask how learning environments shape both academic achievement and social-emotional learning.
-
-### 🏙️ Education technology: Parent Lab
-
-At [Parent Lab](https://myparentlab.com/), I led a research team grounded in child development theory. We designed curricula for parents and educators on parenting practices and developmental psychology. We also built parent-facing assessments and produced bite-sized, personalized parenting content for caregivers.
+At [Parent Lab](https://myparentlab.com/), I led a research team grounded in child development theory. We built curricula and assessments for parents and educators, and produced bite-sized, personalized parenting content.
 
 ## Beyond the lab
 
-In my free time I like to play tennis 🎾, cook 🍳, play video games 🎮, and draw and paint 🎨. I also collect pretty stationery ✏️, and I always have one more notebook than I need.
+In my free time I like to play tennis, cook, play video games, and draw and paint. I also collect pretty stationery, and always have one more notebook than I need.
 
-If you would like to chat about attention, visual perception, mind wandering, learning, or any of the above, feel free to reach out!
+If you would like to chat about attention, visual perception, mind wandering, or learning, feel free to reach out!
