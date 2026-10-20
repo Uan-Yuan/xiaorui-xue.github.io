@@ -1,6 +1,15 @@
+---
+layout: archive
+title: "Publications & Presentations"
+permalink: /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
 <p class="pubs-intro"><sup>*</sup> marks undergraduate researchers I mentored.</p>
 
-<h3 class="pubs-heading">Journal articles</h3>
+<h2 class="pubs-heading">Publications</h2>
 
 <ol class="pubs">
   <li class="pub">
@@ -9,11 +18,6 @@
     <span class="pub__venue"><em>Educational Technology Research and Development</em>, 70(6), 2017–2032 (2022).</span>
     <span class="pub__links"><a href="https://doi.org/10.1007/s11423-022-10154-4">DOI</a></span>
   </li>
-</ol>
-
-<h3 class="pubs-heading">Conference proceedings</h3>
-
-<ol class="pubs">
   <li class="pub">
     <span class="pub__title"><a href="https://doi.org/10.1007/978-3-031-98462-4_3">Utilizing log-based and neurophysiological measures to understand engagement and learning with intelligent tutoring systems</a></span>
     <span class="pub__authors">Liu, Y., Davidesco, I., McLaren, B. M., Richey, J. E., <strong>Xue, X.</strong>, Teffera, L., Stec, H., Lee, H., Zhang, J., Liu, S., &amp; Zion-Golumbic, E.</span>
@@ -22,7 +26,7 @@
   </li>
 </ol>
 
-<h3 class="pubs-heading">Conference presentations</h3>
+<h2 class="pubs-heading">Conference presentations</h2>
 
 <ol class="pubs">
   <li class="pub">

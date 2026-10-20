@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /publications/
 ---
 
 {% include base_path %}
@@ -55,10 +54,6 @@ At the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody
 ### Education technology: Parent Lab
 
 At [Parent Lab](https://myparentlab.com/), I led a research team grounded in child development theory. We built curricula and assessments for parents and educators, and produced bite-sized, personalized parenting content.
-
-<h2 id="publications">Publications &amp; Presentations</h2>
-
-{% include publications-list.html %}
 
 ## More about myself
 
