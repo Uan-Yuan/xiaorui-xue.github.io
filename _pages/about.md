@@ -49,7 +49,7 @@ From 2019 to 2022, I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/p
 
 ### Early childhood research: Peabody Research Office & SRI International
 
-At the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I collected classroom observation data in public pre-K classrooms across Tennessee. From 2019 to 2020, at [SRI International](https://www.sri.com/), I assessed children's social-emotional, academic, and language development in Metro Nashville public pre-Ks. Both experiences showed me how much learning environments shape children's development.
+At the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I collected classroom observation data in public pre-K classrooms across Tennessee. From 2019 to 2020, at [SRI International](https://www.sri.com/), I assessed children's social-emotional, academic, and language development in Metro Nashville public pre-Ks. Both experiences showed me how much the learning environment matters for children's development.
 
 ### Education technology: Parent Lab
 
