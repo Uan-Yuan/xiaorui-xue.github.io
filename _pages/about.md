@@ -12,6 +12,8 @@ redirect_from:
 
 I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Research Group. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) on an NSF-funded study, *Linking Eye Movements with Visual Attention to Enhance Cyberlearning*, which used eye tracking to study how students learn with intelligent tutoring systems in <strong class="tag-classroom">real classrooms</strong>. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
 
+I am experienced with running mobile eye-tracking studies, both in the <strong class="tag-lab">lab</strong> and in <strong class="tag-classroom">real classrooms</strong>, and with using tools such as PsychoPy, Python, and R to build experiments and analyze the data.
+
 <h2 id="research">My research interests</h2>
 
 Broadly, I am interested in **visual attention** and how it interacts with **ongoing thought**. Together, they shape what people **perceive**, **attend** to, and **learn** from the world around them.
@@ -41,11 +43,10 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
 
 ## What I do now
 
-In my current work, students wear lightweight eye-tracking glasses in their regular university lectures. During class, they answer brief thought probes and quiz questions. I align their gaze features with these moment-to-moment reports of mind wandering. The features include where they look, how long they fixate, how often they blink, and how much their heads move. The goal is to test whether eye and head movements can serve as markers of attention and learning outside the lab.
+In my current work, students wear lightweight eye-tracking glasses in their regular <strong class="tag-classroom">university lectures</strong>. During class, they answer brief thought probes and quiz questions. I align their gaze features with these moment-to-moment reports of mind wandering. The features include where they look, how long they fixate, how often they blink, and how much their heads move. The goal is to test whether eye and head movements can serve as markers of attention and learning <strong class="tag-classroom">outside the lab</strong>.
 
-In a parallel line of work, I bring the same students into the lab for controlled attention tasks. I use their lab data to train machine-learning models. Then I test whether these models can predict the same students' attention and learning in their real classrooms. I am also involved in the eye-tracking component of our NSF-funded project on engagement in intelligent tutoring systems.
+In a parallel line of work, I bring the same students into the <strong class="tag-lab">lab</strong> for controlled attention tasks. I use their <strong class="tag-lab">lab data</strong> to train machine-learning models. Then I test whether these models can predict the same students' attention and learning in their <strong class="tag-classroom">real classrooms</strong>. I am also involved in the eye-tracking component of our NSF-funded project on engagement in intelligent tutoring systems.
 
-I am experienced with running mobile eye-tracking studies, both in the lab and in real classrooms, and with using tools such as PsychoPy, Python, and R to build experiments and analyze the data.
 
 ## Selected research experience
 
