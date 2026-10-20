@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Lab. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) on an NSF-funded study, *Linking Eye Movements with Visual Attention to Enhance Cyberlearning*, which used eye tracking to study how students learn with intelligent tutoring systems in <strong class="tag-classroom">real classrooms</strong>. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
+I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Research Group. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) on an NSF-funded study, *Linking Eye Movements with Visual Attention to Enhance Cyberlearning*, which used eye tracking to study how students learn with intelligent tutoring systems in <strong class="tag-classroom">real classrooms</strong>. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
 
 <h2 id="research">My research interests</h2>
 
