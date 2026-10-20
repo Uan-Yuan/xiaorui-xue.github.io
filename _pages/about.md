@@ -10,8 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Thanks for visiting my page!
-
 I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Lab. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with Dr. Daniel Levin on eye tracking in real classrooms. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
 
 <h2 id="research">My research interests</h2>
@@ -72,6 +70,6 @@ At [Parent Lab](https://myparentlab.com/), I led a research team grounded in chi
 
 ## Beyond the lab
 
-Outside of research, I like playing tennis 🎾, cooking 🍳, playing video games 🎮, and drawing and painting 🎨. I also have a soft spot for pretty stationery ✏️.
+In my free time I like to play tennis 🎾, cook 🍳, play video games 🎮, and draw and paint 🎨. I also collect pretty stationery ✏️, and I always have one more notebook than I need.
 
-Feel free to reach out if you would like to chat about attention, eye tracking, classrooms, or any of the above!
+If you would like to chat about attention, eye tracking, classrooms, or any of the above, feel free to reach out!
