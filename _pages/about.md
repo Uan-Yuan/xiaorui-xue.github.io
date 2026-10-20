@@ -16,15 +16,9 @@ I run mobile eye-tracking studies in the <strong class="tag-lab">lab</strong> an
 
 <h2 id="research">My research interests</h2>
 
-I am interested in **visual attention** and how it interacts with **ongoing thought** to shape what people **perceive**, **attend** to, and **learn**.
+Broadly, I am interested in understanding **visual attention** and how it interacts with **ongoing thought** to shape what people **perceive**, **attend** to, and **learn** from the world around them.
 
-<p class="muted">My goal is to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>, using mobile eye-tracking glasses 👓 to capture what students see, think, and learn.</p>
-
-<ol class="questions">
-  <li>Can our eyes reveal what we are <strong>thinking</strong>, in a <strong class="tag-classroom">real classroom</strong>?</li>
-  <li>Does attention in the <strong class="tag-lab">lab</strong> look like attention in the <strong class="tag-classroom">classroom</strong>?</li>
-  <li>How does our <strong>everyday environment</strong> shape what we perceive, attend to, and learn?</li>
-</ol>
+<p class="muted">More specifically, I aim to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>, using mobile eye-tracking glasses 👓 to better understand what students see, think, and learn in naturalistic settings.</p>
 
 <div class="diagram">
   <div class="diagram__node">
