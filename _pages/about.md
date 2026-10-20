@@ -34,13 +34,15 @@ redirect_from:
   </li>
   <li class="question">
     <span class="question__num">3</span>
-    <span class="question__text">How does our <strong>visual diet</strong> shape what we perceive, attend to, and learn?</span>
+    <span class="question__text">How does our <strong>everyday environment</strong> shape what we perceive, attend to, and learn?</span>
   </li>
 </ol>
 
 ## What I do now
 
-In my current work, students wear lightweight eye-tracking glasses during their regular university lectures while answering brief thought probes and quiz questions. By aligning gaze features such as where students look, how long they fixate, how often they blink, and how much their heads move with moment-to-moment reports of mind wandering, I ask whether eye and head movements can serve as markers of attention and learning outside the lab. I complement this classroom work with controlled lab studies and with the lab's NSF-funded project on engagement in intelligent tutoring systems, where I design and analyze the eye-tracking component.
+In my current work, students wear lightweight eye-tracking glasses during their regular university lectures while answering brief thought probes and quiz questions. By aligning gaze features such as where students look, how long they fixate, how often they blink, and how much their heads move with moment-to-moment reports of mind wandering, I ask whether eye and head movements can serve as markers of attention and learning outside the lab.
+
+In a parallel line of work, I bring the same students into the lab for controlled attention tasks and use their lab data to train machine-learning models, then test whether those models can predict the same students' attention and learning in their real classrooms. I also lead the eye-tracking work in our NSF-funded project on engagement in intelligent tutoring systems.
 
 <ul class="toolkit">
   <li>Mobile eye tracking</li>
