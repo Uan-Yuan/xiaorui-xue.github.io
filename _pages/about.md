@@ -39,7 +39,7 @@ Broadly, I am interested in **visual attention** and how it interacts with **ong
     <span class="diagram__label tag-classroom">Classroom</span>
   </div>
 </div>
-<p class="diagram__note">Two very different worlds. What carries over from one to the other?</p>
+<p class="diagram__note">Two very different environments. What carries over from one to the other?</p>
 
 ## What I do now
 
@@ -52,7 +52,7 @@ In a parallel line of work, I bring the same students into the <strong class="ta
 
 ### 💻 Linking Eye Movements with Visual Attention to Enhance Cyberlearning
 
-From 2019 to 2022, I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) and Dr. Gautam Biswas at the Levin Lab at Vanderbilt (NSF Award 1623625). Middle school students learned with an intelligent tutoring system in their real classrooms while we tracked their eyes. We designed coding schemes that link students' eye movements to their learning. This work led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* (2022). The paper examines the prevalence and causes of eye-tracking data loss in a middle school classroom.
+From 2019 to 2022, I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) and [Dr. Gautam Biswas](https://engineering.vanderbilt.edu/bio/gautam-biswas/) at the Levin Lab at Vanderbilt (NSF Award 1623625). Middle school students learned with an intelligent tutoring system in their real classrooms while we tracked their eyes. We designed coding schemes that link students' eye movements to their learning. This work led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* (2022). The paper examines the prevalence and causes of eye-tracking data loss in a middle school classroom.
 
 ### 🧒 Early childhood research: Peabody Research Office & SRI International
 
