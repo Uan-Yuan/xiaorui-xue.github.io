@@ -370,6 +370,11 @@ h1, h2, h3, h4 {
 html[data-a11y="1"] {
   body,
   .masthead,
+  .masthead__inner-wrap,
+  .masthead__menu,
+  .greedy-nav,
+  .greedy-nav .visible-links,
+  .greedy-nav .hidden-links,
   .page__footer {
     background: #fff;
   }
