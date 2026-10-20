@@ -44,6 +44,11 @@ author_profile: true
     <span class="pub__authors">Zhang, N.<sup>*</sup>, Che, R.<sup>*</sup>, <strong>Xue, X.</strong>, &amp; Davidesco, I.</span>
     <span class="pub__venue">Poster, <em>Vision Sciences Society (VSS) Annual Meeting</em>, St. Pete Beach, FL.</span>
   </li>
+  <li class="pub">
+    <span class="pub__title">Detecting mind wandering in real classrooms using eye-tracking and machine learning</span>
+    <span class="pub__authors"><strong>Xue, X.</strong>, Davidesco, I., Av-Shalom, N., Vasilyeva, M., Zhang, N.<sup>*</sup>, Sabelli, R., &amp; Geller, J.</span>
+    <span class="pub__venue">Poster, <em>Cognitive Neuroscience Society (CNS) Annual Meeting</em>, Vancouver, BC, Canada.</span>
+  </li>
 </ol>
 
 <p class="pubs-note">Preprints and preregistrations for ongoing studies are available on request.</p>
