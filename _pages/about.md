@@ -47,7 +47,7 @@ In my current work, students wear lightweight eye-tracking glasses in their regu
 
 In a parallel line of work, I bring the same students into the lab for controlled attention tasks. I use their lab data to train machine-learning models. Then I test whether these models can predict the same students' attention and learning in their real classrooms. I am also involved in the eye-tracking component of our NSF-funded project on engagement in intelligent tutoring systems.
 
-<p class="muted"><strong>Methods:</strong> mobile eye tracking · EEG · thought probes &amp; quizzes · multimodal behavioral coding · generalized linear mixed models · computer vision &amp; AI annotation · R &amp; Python</p>
+I am experienced with running mobile eye-tracking studies, both in the lab and in real classrooms, and with using tools such as PsychoPy, Python, and R to build experiments and analyze the data.
 
 ## Selected research experience
 
