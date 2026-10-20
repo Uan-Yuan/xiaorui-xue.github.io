@@ -55,7 +55,7 @@ At the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody
 
 At [Parent Lab](https://myparentlab.com/), I led a research team grounded in child development theory. We built curricula and assessments for parents and educators, and produced bite-sized, personalized parenting content.
 
-## Beyond the lab
+## More about myself
 
 In my free time I like to play tennis, cook, play video games, and draw and paint. I also collect pretty stationery, and always have one more notebook than I need.
 
