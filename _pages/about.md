@@ -10,16 +10,16 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Lab. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) on an NSF-funded study, *Linking Eye Movements with Visual Attention to Enhance Cyberlearning*, which used eye tracking to study how students learn with intelligent tutoring systems in real classrooms. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
+I am a Ph.D. student at Boston College's Lynch School of Education and Human Development. I work with [Dr. Ido Davidesco](https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html) in the Lab-to-Classroom Lab. Before BC, I studied cognitive psychology and educational policy at Vanderbilt University. There I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) on an NSF-funded study, *Linking Eye Movements with Visual Attention to Enhance Cyberlearning*, which used eye tracking to study how students learn with intelligent tutoring systems in <strong class="tag-classroom">real classrooms</strong>. I also led a child-development research team at [Parent Lab](https://myparentlab.com/).
 
 <h2 id="research">My research interests</h2>
 
 Broadly, I am interested in **visual attention** and how it interacts with **ongoing thought**. Together, they shape what people **perceive**, **attend** to, and **learn** from the world around them.
 
-<p class="muted">More specifically, I aim to <strong>bridge controlled lab research and real classrooms</strong>. I use first-person video and gaze data to capture what students see, think, and learn.</p>
+<p class="muted">More specifically, I aim to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>. I use first-person video and gaze data to capture what students see, think, and learn.</p>
 
 <ol class="questions">
-  <li>Can our eyes reveal what we are <strong>thinking</strong>, in a real classroom?</li>
+  <li>Can our eyes reveal what we are <strong>thinking</strong>, in a <strong class="tag-classroom">real classroom</strong>?</li>
   <li>Does attention in the <strong class="tag-lab">lab</strong> look like attention in the <strong class="tag-classroom">classroom</strong>?</li>
   <li>How does our <strong>everyday environment</strong> shape what we perceive, attend to, and learn?</li>
 </ol>
