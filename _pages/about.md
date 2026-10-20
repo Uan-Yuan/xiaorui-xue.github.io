@@ -60,7 +60,7 @@ As a research assistant at the [Peabody Research Office](https://peabody.vanderb
 
 From 2019 to 2020, I was a research assistant at [SRI International](https://www.sri.com/). I individually assessed children in Metro Nashville public pre-Ks. The assessments focused on social-emotional growth, academic skills, and language development.
 
-Both experiences showed me the gap between students from high- and low-income communities. They pushed me to ask how learning environments shape both academic achievement and social-emotional learning. I also wrote a [policy brief]({{ base_path }}/files/policy-brief.pdf) on universal pre-K reforms in the United States.
+Both experiences showed me the gap between students from high- and low-income communities. They pushed me to ask how learning environments shape both academic achievement and social-emotional learning.
 
 ### 🏙️ Education technology: Parent Lab
 
