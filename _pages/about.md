@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Hi there, I'm Xiaorui!"
+title: "Hi there, I'm Xiaorui 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,41 +8,78 @@ redirect_from:
   - /about.html
 ---
 
-✨I am a Ph.D. student specializing in Educational Neuroscience and Cognitive Psychology at the Boston College, where I am advised by Dr. Ido Davidesco. Before joining BC, I obtained my master’s degree in Educational Policy from Vanderbilt University.
+{% include base_path %}
 
-👩🏻‍💻Prior to BC, I held the role of Senior Researcher at [Parent Lab Inc.](https://www.parentlab.com/)
+<p class="lead">I am a Ph.D. student in Applied Developmental and Educational Psychology at Boston College's Lynch School of Education and Human Development, where I work with <a href="https://www.bc.edu/bc-web/schools/lynch-school/sites/labs/lab-to-classroom.html">Dr. Ido Davidesco</a> in the Lab-to-Classroom Lab. Before coming to BC, I studied cognitive psychology and educational policy at Vanderbilt University, where I worked with Dr. Daniel Levin on eye tracking in real classrooms, and I led a child-development research team at <a href="https://myparentlab.com/">Parent Lab</a>.</p>
 
-📖My research interests center on understanding cognitive processes in learning contexts through the use of eye-tracking and EEG. Specifically, I aim to combine these neurophysiological tools with artificial intelligence to investigate how engagement fluctuates. Ultimately, my goal is to design more personalized and adaptive learning experiences for learners from diverse backgrounds.
+<section class="research-hero" id="research">
+  <div class="research-hero__art">
+    {% include glasses.svg %}
+  </div>
+  <div class="research-hero__text">
+    <h2 class="research-hero__title">My research interests</h2>
+    <p>Broadly, I am interested in understanding <strong>visual attention</strong> and how it interacts with <strong>ongoing thought</strong> to shape what people <strong>perceive</strong>, <strong>attend</strong> to, and <strong>learn</strong> from the world around them.</p>
+    <p class="research-hero__sub">More specifically, I aim to <strong>bridge controlled lab research and real classrooms</strong>, using first-person video and gaze data to capture what students see, think, and learn.</p>
+  </div>
+</section>
 
-📒I am currently working on an NSF-funded project. I am involved in utilizing neurophysiological measures to enhance engagement and learning within Intelligent Tutoring Systems. I am specifically responsible for designing and analyzing the eye-tracking component, aiming to capture real-time engagement fluctuations to inform and improve personalized learning experiences.
+<ol class="questions">
+  <li class="question">
+    <span class="question__num">1</span>
+    <span class="question__text">Can our eyes reveal what we are <strong>thinking</strong>, in a real classroom?</span>
+  </li>
+  <li class="question">
+    <span class="question__num">2</span>
+    <span class="question__text">Does attention in the <strong class="tag-lab">lab</strong> look like attention in the <strong class="tag-classroom">classroom</strong>?</span>
+  </li>
+  <li class="question">
+    <span class="question__num">3</span>
+    <span class="question__text">How does our <strong>visual diet</strong> shape what we perceive, attend to, and learn?</span>
+  </li>
+</ol>
 
-# Selected Research Experiences
+## What I do now
 
-## 💻Linking Eye Movements with Visual Attention to Enhance Cyberlearning（NSF Awarded: 1623625）
+In my current work, students wear lightweight eye-tracking glasses during their regular university lectures while answering brief thought probes and quiz questions. By aligning gaze features such as where students look, how long they fixate, how often they blink, and how much their heads move with moment-to-moment reports of mind wandering, I ask whether eye and head movements can serve as markers of attention and learning outside the lab. I complement this classroom work with controlled lab studies and with the lab's NSF-funded project on engagement in intelligent tutoring systems, where I design and analyze the eye-tracking component.
 
-I collaborated with Dr. Daniel Levin at the Levin Lab, where we designed coding schemes to investigate the relationship between students' eye movements and learning in authentic classroom environments.
+<ul class="toolkit">
+  <li>Mobile eye tracking</li>
+  <li>EEG</li>
+  <li>Thought probes &amp; quizzes</li>
+  <li>Multimodal behavioral coding</li>
+  <li>Generalized linear mixed models</li>
+  <li>Computer vision &amp; AI annotation</li>
+  <li>R &amp; Python</li>
+</ul>
 
-Under the mentorship of Dr. Daniel Levin and Dr. Gautam Biswas, we authored a [respective paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) published in Educational Technology Research and Development (ETR&D).
+## Selected research experience
 
-## 🧒SRI&PRI: Tennessee Volunteer Pre-K Program 
+### 💻 Linking Eye Movements with Visual Attention to Enhance Cyberlearning
 
-As a research assistant at the Peabody Research Office, I extensively visited public pre-Ks in Tennessee, observing children's interactions and daily routines. This insight deepened my understanding of curriculum design, staffing, and the challenges these institutions face.
+At the Levin Lab at Vanderbilt (NSF Award 1623625), I worked with Dr. Daniel Levin and Dr. Gautam Biswas to design coding schemes that link students' eye movements to learning in authentic classroom environments. This work led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* on the prevalence and causes of eye-tracking data loss in a middle school classroom.
 
-Later, at Stanford Research Institute International, I assessed children individually in public pre-Ks within Metro Nashville public schools, focusing on their social-emotional growth, academic achievements, and language skills.
+### 🧒 Early childhood research: Peabody Research Office & SRI International
 
-These two experiences illuminated the substantial performance disparity between students from high-income and low-income regions. This urged me to explore further how settings influence students, encompassing both their academic achievements and the cultivation of social-emotional learning.
+As a research assistant at the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I visited public pre-K classrooms across Tennessee, observing children's interactions and daily routines, which gave me a close look at curriculum design, staffing, and the challenges these programs face.
 
-I wrote a [policy brief](https://docs.google.com/document/d/1kQ7RPy9uthdIGAMH6nhLQLUh4KZXnlrIH0HPyjza99c/edit?usp=sharing) about universal pre-k reforms in the United States.
+Later, at [SRI International](https://www.sri.com/), I individually assessed children in Metro Nashville public pre-Ks, focusing on their social-emotional growth, academic skills, and language development.
 
-## 🏙️Education Technology Company 
+Both experiences made the gap between students from high- and low-income communities vivid, and pushed me to ask how learning environments shape both academic achievement and social-emotional learning. I also wrote a [policy brief]({{ base_path }}/files/policy-brief.pdf) on universal pre-K reforms in the United States.
 
-I led a research team within a prominent ed-tech company specializing in child development theories. Our work involved crafting curricula tailored for parents and educators centered around parenting techniques and developmental psychology.
+### 🏙️ Education technology: Parent Lab
 
-We launched a [parenting education app](https://apps.apple.com/us/app/parent-lab-daily-parenting-app/id1204077580), aimed to provide bite-sized, personalized parenting practices for caregivers on a daily basis.
+At [Parent Lab](https://myparentlab.com/), I led a research team grounded in child development theory. We designed curricula for parents and educators around parenting practices and developmental psychology, built parent-facing assessments, and produced bite-sized, personalized parenting content for caregivers.
 
+## Beyond the lab
 
+When I am not fitting mixed models or annotating gaze videos, you will probably find me on a tennis court, in the kitchen trying a new recipe, lost in a video game, sketching or painting, or browsing a stationery shop for one more beautiful pen I definitely do not need.
 
+<ul class="hobbies">
+  <li><span class="hobbies__icon">🎾</span><span>Tennis</span></li>
+  <li><span class="hobbies__icon">🍳</span><span>Cooking</span></li>
+  <li><span class="hobbies__icon">🎮</span><span>Video games</span></li>
+  <li><span class="hobbies__icon">🎨</span><span>Drawing &amp; painting</span></li>
+  <li><span class="hobbies__icon">✏️</span><span>Pretty stationery</span></li>
+</ul>
 
-
-
-
+Thanks for visiting my page, and feel free to reach out if you would like to chat about attention, eye tracking, classrooms, or any of the above!
