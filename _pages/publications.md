@@ -41,7 +41,7 @@ author_profile: true
   </li>
 </ol>
 
-<h2 class="pubs-heading">Conference presentations</h2>
+<h2 class="pubs-heading">Talks</h2>
 
 <ol class="pubs">
   <li class="pub">
@@ -49,6 +49,21 @@ author_profile: true
     <span class="pub__authors"><strong>Xue, X.</strong>, Easwar, V., Geller, J., Av-Shalom, N. Y., Ovid, D., &amp; Davidesco, I.</span>
     <span class="pub__venue">Symposium talk (upcoming), in <em>Attention, Gaze, and Speech Processing During Learning Across the Lab-to-Classroom Continuum</em> (Chairs: Y. Wang &amp; L. D. Sanders), <em>Cognitive Neuroscience Society (CNS) Annual Meeting</em>, Boston, MA.</span>
   </li>
+  <li class="pub">
+    <span class="pub__title">Student engagement with an intelligent tutoring system: A multimodal investigation in high school settings</span>
+    <span class="pub__authors">Liu, Y., Davidesco, I., McLaren, B. M., Richey, J. E., <strong>Xue, X.</strong>, et al.</span>
+    <span class="pub__venue">Symposium talk, <em>International Mind, Brain, and Education Society (IMBES) Annual Conference</em>, San Diego, CA.</span>
+  </li>
+  <li class="pub">
+    <span class="pub__title">What added value do neurophysiological measures of engagement bring to science learning research?</span>
+    <span class="pub__authors">Liu, Y., <strong>Xue, X.</strong>, Davidesco, I., McLaren, B. M., Richey, J. E., et al.</span>
+    <span class="pub__venue">Roundtable presentation, <em>NARST Annual International Conference</em>, Seattle, WA.</span>
+  </li>
+</ol>
+
+<h2 class="pubs-heading">Posters</h2>
+
+<ol class="pubs">
   <li class="pub">
     <span class="pub__title"><a href="https://www.visionsciences.org/presentation/?id=3352">Through the student's lens: Capturing visual attention in real-world classrooms</a></span>
     <span class="pub__authors"><strong>Xue, X.</strong>, Davidesco, I., Av-Shalom, N., Vasilyeva, M., Zhang, N.<sup>*</sup>, Sabelli, R., &amp; Geller, J.</span>
@@ -63,16 +78,6 @@ author_profile: true
     <span class="pub__title">Detecting mind wandering in real classrooms using eye-tracking and machine learning</span>
     <span class="pub__authors"><strong>Xue, X.</strong>, Davidesco, I., Av-Shalom, N., Vasilyeva, M., Zhang, N.<sup>*</sup>, Sabelli, R., &amp; Geller, J.</span>
     <span class="pub__venue">Poster, <em>Cognitive Neuroscience Society (CNS) Annual Meeting</em>, Vancouver, BC, Canada.</span>
-  </li>
-  <li class="pub">
-    <span class="pub__title">Student engagement with an intelligent tutoring system: A multimodal investigation in high school settings</span>
-    <span class="pub__authors">Liu, Y., Davidesco, I., McLaren, B. M., Richey, J. E., <strong>Xue, X.</strong>, et al.</span>
-    <span class="pub__venue">Symposium talk, <em>International Mind, Brain, and Education Society (IMBES) Annual Conference</em>, San Diego, CA.</span>
-  </li>
-  <li class="pub">
-    <span class="pub__title">What added value do neurophysiological measures of engagement bring to science learning research?</span>
-    <span class="pub__authors">Liu, Y., <strong>Xue, X.</strong>, Davidesco, I., McLaren, B. M., Richey, J. E., et al.</span>
-    <span class="pub__venue">Roundtable presentation, <em>NARST Annual International Conference</em>, Seattle, WA.</span>
   </li>
   <li class="pub">
     <span class="pub__title">A school-based neuroscience study on student engagement with intelligent tutoring systems</span>
