@@ -11,7 +11,6 @@ author_profile: true
 
 <h2 class="pubs-heading">Publications</h2>
 
-<h3 class="pubs-year">2025</h3>
 <ol class="pubs">
   <li class="pub">
     <span class="pub__date">2025</span>
@@ -20,10 +19,6 @@ author_profile: true
     <span class="pub__venue">In <em>Artificial Intelligence in Education (AIED)</em>, Lecture Notes in Computer Science. Springer, pp. 19–26.</span>
     <span class="pub__links"><a href="https://doi.org/10.1007/978-3-031-98462-4_3">DOI</a> · <a href="https://www.cs.cmu.edu/~bmclaren/pubs/LiuEtAl-UtilizingLogBasedAndNeurophysiologicalMeasuresToUnderstandITS-AIED2025.pdf">PDF</a></span>
   </li>
-</ol>
-
-<h3 class="pubs-year">2022</h3>
-<ol class="pubs">
   <li class="pub">
     <span class="pub__date">2022</span>
     <span class="pub__title"><a href="https://doi.org/10.1007/s11423-022-10154-4">A case study of prevalence and causes of eye tracking data loss in a middle school classroom</a></span>
@@ -52,7 +47,6 @@ author_profile: true
 
 <h2 class="pubs-heading">Talks</h2>
 
-<h3 class="pubs-year">2027</h3>
 <ol class="pubs">
   <li class="pub">
     <span class="pub__date">March 2027 · upcoming</span>
@@ -60,10 +54,6 @@ author_profile: true
     <span class="pub__authors"><strong>Xue, X.</strong>, Easwar, V., Geller, J., Av-Shalom, N. Y., Ovid, D., &amp; Davidesco, I.</span>
     <span class="pub__venue">Symposium talk, in <em>Attention, Gaze, and Speech Processing During Learning Across the Lab-to-Classroom Continuum</em> (Chairs: Y. Wang &amp; L. D. Sanders) | Cognitive Neuroscience Society (CNS) Annual Meeting, Boston, MA</span>
   </li>
-</ol>
-
-<h3 class="pubs-year">2026</h3>
-<ol class="pubs">
   <li class="pub">
     <span class="pub__date">September 2026</span>
     <span class="pub__title">Student engagement with an intelligent tutoring system: A multimodal investigation in high school settings</span>
@@ -80,7 +70,6 @@ author_profile: true
 
 <h2 class="pubs-heading">Posters</h2>
 
-<h3 class="pubs-year">2026</h3>
 <ol class="pubs">
   <li class="pub">
     <span class="pub__date">May 2026</span>
@@ -100,10 +89,6 @@ author_profile: true
     <span class="pub__authors"><strong>Xue, X.</strong>, Davidesco, I., Av-Shalom, N., Vasilyeva, M., Zhang, N.<sup>*</sup>, Sabelli, R., &amp; Geller, J.</span>
     <span class="pub__venue">Poster | Cognitive Neuroscience Society (CNS) Annual Meeting, Vancouver, BC, Canada</span>
   </li>
-</ol>
-
-<h3 class="pubs-year">2025</h3>
-<ol class="pubs">
   <li class="pub">
     <span class="pub__date">April 2025</span>
     <span class="pub__title">A school-based neuroscience study on student engagement with intelligent tutoring systems</span>
