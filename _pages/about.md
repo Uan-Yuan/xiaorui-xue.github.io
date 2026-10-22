@@ -20,43 +20,13 @@ Broadly, I am interested in understanding **visual attention** and how it intera
 
 <p class="muted">More specifically, I aim to bridge <strong class="tag-lab">controlled lab research</strong> and <strong class="tag-classroom">real classrooms</strong>, using mobile eye-tracking glasses 👓 to better understand what students see, think, and learn in naturalistic settings.</p>
 
-<div class="diagram">
-  <div class="diagram__node">
-    <span class="diagram__emoji" aria-hidden="true">🖥️</span>
-    <span class="diagram__label tag-lab">Lab</span>
-  </div>
-  <div class="diagram__node diagram__node--link">
-    <span class="diagram__emoji diagram__arrow" aria-hidden="true">⇄</span>
-  </div>
-  <div class="diagram__node">
-    <span class="diagram__emoji" aria-hidden="true">🏫</span>
-    <span class="diagram__label tag-classroom">Classroom</span>
-  </div>
-</div>
-<p class="diagram__note">Two very different environments. What carries over from one to the other?</p>
+## News
 
-## What I do now
-
-Students wear lightweight eye-tracking glasses during their regular <strong class="tag-classroom">university lectures</strong> while answering brief thought probes and quiz questions. I align gaze features, such as where they look, how long they fixate, how often they blink, and how much their heads move, with these moment-to-moment reports of mind wandering. The goal is to test whether eye and head movements can mark attention and learning <strong class="tag-classroom">outside the lab</strong>.
-
-In parallel, I bring the same students into the <strong class="tag-lab">lab</strong> for controlled attention tasks, train machine-learning models on their <strong class="tag-lab">lab data</strong>, and test whether these models predict their attention and learning in <strong class="tag-classroom">real classrooms</strong>. I also contribute to the eye-tracking component of our NSF-funded project on engagement in intelligent tutoring systems.
-
-## Selected research experience
-
-### Linking Eye Movements with Visual Attention to Enhance Cyberlearning
-
-From 2019 to 2022, I worked with [Dr. Daniel Levin](https://www.vanderbilt.edu/psychological_sciences/bio/daniel-levin) and [Dr. Gautam Biswas](https://engineering.vanderbilt.edu/bio/gautam-biswas/) at Vanderbilt (NSF Award 1623625). We tracked middle school students' eyes as they learned with an intelligent tutoring system in their classrooms, and designed coding schemes linking eye movements to learning. This led to a [first-authored paper](https://link.springer.com/article/10.1007/s11423-022-10154-4) in *Educational Technology Research and Development* (2022) on the causes of eye-tracking data loss in the classroom.
-
-### Early childhood research: Peabody Research Office & SRI International
-
-At the [Peabody Research Office](https://peabody.vanderbilt.edu/research/peabody-research-office/), I collected classroom observation data in public pre-K classrooms across Tennessee. From 2019 to 2020, at [SRI International](https://www.sri.com/), I assessed children's social-emotional, academic, and language development in Metro Nashville public pre-Ks.
-
-### Education technology: Parent Lab
-
-At [Parent Lab](https://myparentlab.com/), I led a research team grounded in child development theory. We built curricula and assessments for parents and educators, and produced bite-sized, personalized parenting content.
-
-## More about myself
-
-In my free time I like to play tennis, cook, play video games, and draw and paint. I also collect pretty stationery, and always have one more notebook than I need.
-
-If you would like to chat about attention, visual perception, mind wandering, or learning, feel free to reach out!
+<ul class="news">
+  <li><span class="news__date">Oct 2026</span><span class="news__text">Our symposium <em>Attention, Gaze, and Speech Processing During Learning Across the Lab-to-Classroom Continuum</em> was accepted for CNS 2027 in Boston. I will give a talk on multimodal approaches to mind wandering and learning.</span></li>
+  <li><span class="news__date">Oct 2026</span><span class="news__text">Started this year's data collection: classroom eye-tracking sessions plus a companion lab study with the same students.</span></li>
+  <li><span class="news__date">Sep 2026</span><span class="news__text">Our intelligent tutoring systems work was presented in a symposium at IMBES in San Diego.</span></li>
+  <li><span class="news__date">May 2026</span><span class="news__text">Presented two posters at VSS, including one led by undergraduate RAs Nanyu Zhang and Rebekah Che.</span></li>
+  <li><span class="news__date">Mar 2026</span><span class="news__text">Presented a poster on detecting mind wandering in real classrooms at CNS in Vancouver.</span></li>
+  <li><span class="news__date">Jul 2025</span><span class="news__text">Our AIED paper on log-based and neurophysiological measures of engagement with intelligent tutoring systems was published.</span></li>
+</ul>

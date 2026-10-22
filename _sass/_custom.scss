@@ -222,6 +222,66 @@ h1, h2, h3, h4 {
   }
 }
 
+/* news list (home page) */
+.news {
+  list-style: none;
+  margin: 0.5em 0 0;
+  padding: 0;
+
+  li {
+    display: flex;
+    gap: 1.2em;
+    align-items: baseline;
+    margin: 0 0 0.9em;
+    padding: 0 0 0.9em;
+    border-bottom: 1px solid $mint-line;
+    font-size: 0.97em;
+    line-height: 1.55;
+
+    &:last-child {
+      border-bottom: 0;
+    }
+  }
+
+  &__date {
+    flex: 0 0 5.2em;
+    font-size: 0.8em;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: $mint-heading;
+    white-space: nowrap;
+  }
+
+  &__text {
+    flex: 1 1 auto;
+  }
+}
+
+/* archive-layout pages (Research, About me, Publications): match home typography */
+.archive {
+  h3 {
+    margin-top: 1.6em;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: $primary-color;
+  }
+
+  p, li {
+    font-size: 1.04em;
+    line-height: 1.75;
+  }
+
+  a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
 /*
    Publications page
    ========================================================================== */
@@ -439,8 +499,13 @@ html[data-a11y="1"] {
   }
 
   .pub__date,
-  .pubs-year {
+  .pubs-year,
+  .news__date {
     color: #000;
+  }
+
+  .news li {
+    border-bottom-color: #000;
   }
 
   .tag-lab {
