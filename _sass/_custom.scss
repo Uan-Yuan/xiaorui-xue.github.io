@@ -242,12 +242,29 @@ h1, h2, h3, h4 {
   padding: 0;
 }
 
+.pubs-year {
+  margin: 1.4em 0 0.6em;
+  font-size: 1em;
+  font-weight: 600;
+  color: $muted-color;
+  letter-spacing: 0.04em;
+}
+
 .pub {
   margin: 0 0 1.5em;
-  padding: 0;
+  padding: 0 0 0 1em;
+  border-left: 3px solid $mint-line;
   display: flex;
   flex-direction: column;
   gap: 0.2em;
+
+  &__date {
+    font-size: 0.8em;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: $mint-heading;
+  }
 
   &__title {
     font-weight: 600;
@@ -415,6 +432,15 @@ html[data-a11y="1"] {
     color: #000;
     border-bottom: 2px solid #000;
     padding-bottom: 0.2em;
+  }
+
+  .pub {
+    border-left-color: #000;
+  }
+
+  .pub__date,
+  .pubs-year {
+    color: #000;
   }
 
   .tag-lab {
