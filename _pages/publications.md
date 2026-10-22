@@ -45,6 +45,11 @@ author_profile: true
 
 <ol class="pubs">
   <li class="pub">
+    <span class="pub__title">Following the wandering mind: Multimodal approaches to attention and learning</span>
+    <span class="pub__authors"><strong>Xue, X.</strong>, Easwar, V., Geller, J., Av-Shalom, N. Y., Ovid, D., &amp; Davidesco, I.</span>
+    <span class="pub__venue">Symposium talk (upcoming), in <em>Attention, Gaze, and Speech Processing During Learning Across the Lab-to-Classroom Continuum</em> (Chairs: Y. Wang &amp; L. D. Sanders), <em>Cognitive Neuroscience Society (CNS) Annual Meeting</em>, Boston, MA.</span>
+  </li>
+  <li class="pub">
     <span class="pub__title"><a href="https://www.visionsciences.org/presentation/?id=3352">Through the student's lens: Capturing visual attention in real-world classrooms</a></span>
     <span class="pub__authors"><strong>Xue, X.</strong>, Davidesco, I., Av-Shalom, N., Vasilyeva, M., Zhang, N.<sup>*</sup>, Sabelli, R., &amp; Geller, J.</span>
     <span class="pub__venue">Poster, <em>Vision Sciences Society (VSS) Annual Meeting</em>, St. Pete Beach, FL.</span>
