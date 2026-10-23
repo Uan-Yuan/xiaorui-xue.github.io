@@ -24,9 +24,7 @@ Broadly, I am interested in understanding **visual attention** and how it intera
 
 <ul class="news">
   <li><span class="news__date">Oct 22, 2026</span><span class="news__text">Our symposium <em>Attention, Gaze, and Speech Processing During Learning Across the Lab-to-Classroom Continuum</em> was accepted at CNS 2027 (Boston, MA)! Xiaorui will give a talk titled <em>Following the wandering mind: Multimodal approaches to attention and learning</em>.</span></li>
-  <li><span class="news__date">Sep 2026</span><span class="news__text">Our intelligent tutoring systems work was presented in a symposium at IMBES 2026 (San Diego, CA)!</span></li>
   <li><span class="news__date">May 19, 2026</span><span class="news__text">Xiaorui's undergraduate mentees Nanyu Zhang and Rebekah Che presented their poster at VSS 2026 titled <em>The association of classroom seating location on visual gaze behavior and mind-wandering</em>!</span></li>
   <li><span class="news__date">May 19, 2026</span><span class="news__text">Xiaorui presented a poster at VSS 2026 (St. Pete Beach, FL) titled <em>Through the student's lens: Capturing visual attention in real-world classrooms</em>!</span></li>
   <li><span class="news__date">Mar 2026</span><span class="news__text">Xiaorui presented a poster at CNS 2026 (Vancouver, BC) titled <em>Detecting mind wandering in real classrooms using eye-tracking and machine learning</em>!</span></li>
-  <li><span class="news__date">Jul 2025</span><span class="news__text">Our AIED 2025 paper on log-based and neurophysiological measures of engagement with intelligent tutoring systems is out!</span></li>
 </ul>
